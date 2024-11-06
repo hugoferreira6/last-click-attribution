@@ -15,5 +15,5 @@
 homepage: "https://github.com/hugoferreira6"
 documentation: "https://github.com/hugoferreira6/last-click-attribution"
 versions:
-  - sha: 6f346dac26bf1319eef0090f6b6c304d6815200d
+  - sha: aee307fe49a66669e71f97d58fafbb31ea08de9f
     changeNotes: Initial Version
